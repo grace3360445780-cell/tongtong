@@ -1,5 +1,5 @@
 /* 오프라인 캐시: 앱 파일을 캐시에서 먼저 보여주고, 뒤에서 새 버전으로 갱신 */
-const CACHE = 'tongtong-kms-v1.0.0';
+const CACHE = 'tongtong-kms-v1.0.4';
 const FILES = ['./', 'index.html', 'app.js', 'data.js', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 
